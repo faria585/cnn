@@ -1,0 +1,5 @@
+[27-Apr-2025 12:58:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/rsoa72.rehan.school/public_html/CNN/categorey.php:4
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/CNN/categorey.php(4): PDO->query('SELECT name FRO...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/CNN/categorey.php on line 4
